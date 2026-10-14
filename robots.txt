@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.alexual.com/sitemap.xml
+Sitemap: https://alexual.com/sitemap.xml

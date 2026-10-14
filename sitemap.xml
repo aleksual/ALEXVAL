@@ -2,56 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <!-- Главная страница -->
   <url>
-    <loc>https://www.alexual.com/</loc>
+    <loc>https://alexual.com/</loc>
     <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <!-- Страница проекта Skolkovo -->
   <url>
-    <loc>https://www.alexual.com/works/skolkovo</loc>
+    <loc>https://alexual.com/works/skolkovo</loc>
     <lastmod>2026-10-13</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
   <!-- Страница проекта GazpromNeft -->
   <url>
-    <loc>https://www.alexual.com/works/gazpromneft</loc>
+    <loc>https://alexual.com/works/gazpromneft</loc>
     <lastmod>2026-10-13</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
   <!-- Страница проекта KeepRise -->
   <url>
-    <loc>https://www.alexual.com/works/keeprise</loc>
+    <loc>https://alexual.com/works/keeprise</loc>
     <lastmod>2026-10-13</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
   <!-- Страница проекта NFT Marketplace & Wallet -->
   <url>
-    <loc>https://www.alexual.com/works/nft</loc>
+    <loc>https://alexual.com/works/nft</loc>
     <lastmod>2026-10-13</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
   <!-- Страница проекта XRPL Wallet -->
   <url>
-    <loc>https://www.alexual.com/works/xrpl-wallet</loc>
+    <loc>https://alexual.com/works/xrpl-wallet</loc>
     <lastmod>2026-10-13</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
   <!-- Страница проекта Gemotest -->
   <url>
-    <loc>https://www.alexual.com/works/gemotest</loc>
+    <loc>https://alexual.com/works/gemotest</loc>
     <lastmod>2026-10-13</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
   <!-- Страница проекта DME Capital -->
   <url>
-    <loc>https://www.alexual.com/works/dmecapital</loc>
+    <loc>https://alexual.com/works/dmecapital</loc>
     <lastmod>2026-10-13</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
